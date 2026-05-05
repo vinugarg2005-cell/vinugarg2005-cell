@@ -12,16 +12,17 @@
 
 ## 👨‍💻 About Me
 
-```python
-vinayak = {
-    "role"       : "Machine Learning Engineer",
-    "focus"      : ["MLOps", "Deep Learning", "End-to-End ML Pipelines"],
-    "stack"      : ["Python", "FastAPI", "Docker", "AWS", "MLflow", "DagsHub"],
-    "currently"  : "Building scalable AI systems & sharpening MLOps skills",
-    "open_to"    : "ML / Data Science Internships & Collaborations 🤝",
-    "fun_fact"   : "I don't stop at the notebook — I ship to production 🚢"
-}
-```
+🎯 I'm a **Machine Learning Engineer** passionate about building end-to-end AI systems that go beyond notebooks.
+
+🔭 My focus is on **MLOps, Deep Learning, and scalable ML pipelines** — from raw data to production deployment.
+
+🛠️ I work with **Python, FastAPI, Docker, AWS, MLflow, and DagsHub** to build reproducible and deployable ML solutions.
+
+🌱 Currently sharpening my MLOps skills and building scalable AI systems.
+
+🤝 Open to **ML / Data Science Internships & Collaborations!**
+
+🚢 Fun fact: I don't stop at the notebook — I ship to production!
 
 ---
 
@@ -60,18 +61,18 @@ vinayak = {
 - 🚢 Deployed via **FastAPI + Docker** on **AWS EC2** with automated **CI/CD pipelines**
 - 📦 Modular, reproducible architecture with config-driven training
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakGarg)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinugarg2005-cell/networksecurity)
 
 ---
 
 ### 📉 Customer Churn Prediction
-> End-to-end ML pipeline with experiment tracking & cloud deployment
+> End-to-end ANN-based classification model with experiment tracking & cloud deployment
 
 - 🏗️ Complete pipeline from EDA → Feature Engineering → Model Training → Deployment
 - 📊 MLflow experiment tracking with model registry on DagsHub
 - 🌐 REST API with FastAPI, containerized with Docker, hosted on AWS
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakGarg)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinugarg2005-cell/ANN-Classification-Customer-Churn-Prediction-Model)
 
 ---
 
@@ -82,30 +83,18 @@ vinayak = {
 - ☁️ End-to-end AWS deployment with S3 artifact storage and EC2 hosting
 - 🔁 CI/CD integration for automated retraining & redeployment
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakGarg)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinugarg2005-cell/mlproject)
 
 ---
 
-## 📊 GitHub Stats
+### 🎬 IMDB Movie Review Sentiment Analysis
+> NLP-based binary sentiment classification on movie reviews
 
-<div align="center">
+- 📝 Text preprocessing pipeline with tokenization, stopword removal & vectorization
+- 🤖 Trained deep learning model for positive/negative sentiment detection
+- 📊 Evaluated on IMDB benchmark dataset
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinayakGarg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakGarg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VinayakGarg&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VinayakGarg&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinugarg2005-cell/IMDB-Movie-Review-Sentiment-Analysis)
 
 ---
 
@@ -113,9 +102,9 @@ vinayak = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayakgarg)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinayakgarg@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinayakGarg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-garg-901b28322/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garg.vinayak0512@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinugarg2005-cell)
 
 </div>
 
@@ -123,9 +112,8 @@ vinayak = {
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=VinayakGarg&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=vinugarg2005-cell&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 </div>
-
