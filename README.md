@@ -18,7 +18,7 @@
 
 🛠️ Day to day: **Python, FastAPI, LangChain/LangGraph, Docker, AWS, MLflow, Qdrant, React**.
 
-🧠 Actively grinding **DSA in Python** with a pattern based approach. 150+ problems across arrays, two pointers, sliding window, linked lists, stacks, binary search, trees and heaps.
+🧠 Actively grinding **DSA in Python** with a pattern based approach. 400+ problems across arrays, two pointers, sliding window, linked lists, stacks, binary search, trees, heaps, graphs and dynamic programming.
 
 💼 Previously: **ML/AI Engineering Intern @ Zeapl** (enterprise WhatsApp + AI platform).
 
